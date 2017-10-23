@@ -33,3 +33,9 @@
 .icon-mail3:before {
   content: "\ea85";
 }
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: #fff;
+}
